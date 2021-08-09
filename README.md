@@ -1,1 +1,1 @@
-Convert your website to mobile app.
+Convert your website to a mobile app.
